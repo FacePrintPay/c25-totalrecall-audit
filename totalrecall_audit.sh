@@ -162,3 +162,5 @@ echo "✅ Done."
 echo "📄 Report: $OUTDIR/results/report.md"
 echo "📊 CSV:    $OUTDIR/results/hits.csv"
 echo "🔐 Hashes: $OUTDIR/hashes/SHA256SUMS.txt"
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=totalrecall_audit.sh
